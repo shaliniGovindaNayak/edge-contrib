@@ -92,7 +92,7 @@
   "input": [
     {
       "name": "message",
-      "type": "string",
+      "type": "json",
       "description": "The message to send"
     },
     {
